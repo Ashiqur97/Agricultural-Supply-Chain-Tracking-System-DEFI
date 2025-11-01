@@ -61,9 +61,9 @@ After deployment:
 
 Call createProduct() → add a new harvested crop
 
-## Demo
+### Live Link
 
-Demo Link : https://verification-of-farming.vercel.app/
+Live Link : https://verification-of-farming.vercel.app/
 
 Call processProduct() → simulate supplier actions
 
