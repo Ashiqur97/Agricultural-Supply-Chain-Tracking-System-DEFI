@@ -4,6 +4,10 @@
 
 A transparent, tamper-proof solution to trace agricultural products from Farm to Packaging using Ethereum Smart Contracts.
 
+
+![image alt](https://github.com/Abir-swe-dev/Agricultural-Supply-Chain-Tracking-System-DEFI/blob/166adf1962488704f7d6533bc191c4d8ecbaeae4/farming.PNG)
+
+
 ## Overview
 
 This project provides an end-to-end blockchain solution for tracking agricultural products throughout the supply chain — from the Farmer, to the Supplier (Processor), to the Packager.
